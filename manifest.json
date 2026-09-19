@@ -1,0 +1,12 @@
+{
+  "name": "MyModpack",
+  "minecraftVersion": "1.20.1",
+  "loader": "Forge",
+  "modpackVersion": "1.0.3",
+  "files": [
+    {
+      "path": "mods/testmod.txt",
+      "url": "https://raw.githubusercontent.com/Twotuffy/MyMinecraftModpack/refs/heads/main/mods/testmod.txt"
+    }
+  ]
+}
