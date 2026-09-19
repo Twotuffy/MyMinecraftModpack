@@ -2,7 +2,7 @@
   "name": "MyModpack",
   "minecraftVersion": "1.20.1",
   "loader": "Forge",
-  "modpackVersion": "1.0.4"
+  "modpackVersion": "1.0.4",
   "files": [
     {
       "path": "mods/testmod.txt",
